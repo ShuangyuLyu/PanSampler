@@ -91,3 +91,5 @@ The `experimental_results/` directory contains 4 subdirectories, each with `.csv
 `experimental_results/Results_of_PanSampler_with_different_lambda_settings/`: Contains results of *PanSampler* with different $\lambda$ settings on all large-scale testing benchmarks.
 
 `experimental_results/Results_of_medium_scale_benchmarks/`: Contains results of *PanSampler* and its state-of-the-art competitors on all medium-scale testing benchmarks.
+
+`experimental_results/Results_of_Fault_Detection`: Contains 9 subjects collected from real-world software systems and the fault detection experimental results presented in RQ7.
